@@ -1,0 +1,12 @@
+{
+    "id": "instagram",
+    "name": "instagram",
+    "version": "1.0.0",
+    "description": "Instagram",
+    "main": "index.js",
+    "author": "Adam Birds <adam.birds@adbtechltd.co.uk>",
+    "license": "MIT",
+    "config": {
+        "serviceURL": "https://www.instagram.com/"
+    }
+}
